@@ -1,0 +1,7 @@
+1.
+This week I got a issue about the error message would not show in the main project, but show in the project that was imported.
+We didn't find the core result yet. Then, I discussed with my colleague. We thought that the reason may be the error tracker, Sentry that was installed in the main project.
+It caught the error so that the error would not show in the main project.
+
+2.
+Today I learnt about the databases- Indexs, partition.
