@@ -3,7 +3,6 @@
 
 ### Hi, I'm William Lin
  - Mainly use Typeascript(React > Vue)
- - <a href="https://ruila.github.io/personal-website/mario/">Here</a> is one of ways to my websites.(It's for fun, but now is not reaedy yet)
  - How to reach me: 4momolmr@gmail.com
 
 <br>
