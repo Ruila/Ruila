@@ -2,7 +2,6 @@
 [![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:4momolmr@gmail.com)
 
 ### Hi, I'm William Lin
- - Mainly use Typeascript(React > Vue)
  - How to reach me: 4momolmr@gmail.com
 
 <br>
