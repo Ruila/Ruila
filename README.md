@@ -3,6 +3,7 @@
 
 ### Hi, I'm William Lin
  - How to reach me: 4momolmr@gmail.com
+ - my memo: https://ruila.github.io/note-memo/
 
 <br>
 
