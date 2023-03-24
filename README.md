@@ -8,4 +8,8 @@
 <br>
 
 ### Github Stats
-![Github stats](https://github-readme-stats.vercel.app/api?username=Ruila&show_icons=true&count_private=true)
+
+<div style="display: flex;">
+ <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ruila&layout=compact&theme=react&hide=php&langs_count=6" />
+ <img height="180" src="https://github-readme-stats.vercel.app/api?username=Ruila&show_icons=true&count_private=true&theme=react" />  
+</div>
